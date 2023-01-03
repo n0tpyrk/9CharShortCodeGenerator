@@ -1,4 +1,4 @@
-# ShortCodeGenerator
+# Base62 Short Code Generator
 A method to generate a 9-character (or less) short code from a 16-digit integer code.
 
 # Scenario
