@@ -1,5 +1,5 @@
 # Base62 Short Code Generator
-A method to generate a 9-character (or less) short code from a 16-digit integer code.
+A method to generate a 9-character (or less) short code from a 16-digit integer code uning as customised base 62.
 
 # Scenario
 You are required to generate promo codes for XYZ Cafe. XYZ Cafe has 300 branches. For each branch, XYZ cafe decides to release 10,000 promo codes per day for coffee lovers. Each promo code is unique and must include the following information: date(YYYY, MM and DD), branch ID (1-300), and released number(1-10000). The length of each promo code should also be no more than 9 characters. (Modified from an interview question.)
